@@ -49,7 +49,7 @@
                       <workers>${workerCount}</workers>
                       <workerType>${workerType}</workerType>
                       <objectStoreV2>true</objectStoreV2>
-		      <region>${region}</region>
+		      <region>${region}</region>    
                     </cloudHubDeployment>
 				</configuration>
 			</plugin>
